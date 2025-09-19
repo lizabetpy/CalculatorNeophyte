@@ -36,8 +36,7 @@ ExiT
     CalculatorNeophyte/
      ├── src/
      │   └── Main.java      
-     ├── .gitignore         
-     ├── CalculatorNeophyte.iml
+     ├── .gitignore
      └── README.md
 
 ## Сборка и запуск
